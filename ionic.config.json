@@ -1,0 +1,7 @@
+{
+  "name": "SkeletonProyect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

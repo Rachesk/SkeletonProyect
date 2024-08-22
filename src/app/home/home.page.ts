@@ -7,6 +7,13 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  message:string;
+  usuario:string = 'user';
+  contrasena:string = '123';
+
+  constructor() {
+
+    this.message ='Bienvenidos'
+  }
 
 }
